@@ -4,12 +4,14 @@
  * and open the template in the editor.
  */
 package password;
-
-//import java.util.Random;
 /**
- *
- * @author ber
+ * @author Bernardo Díaz Larrauri Calleja
+ * @version: 29/03/2021
+ * @see
+ * <a href = "https://github.com/BernardoDiazLarrauriCalleja/TO05_Ejercicio1.git"/>GitHub
+ * TO05_Ejercicio1<a>
  */
+
 public class CreaPasword {
 
     /**

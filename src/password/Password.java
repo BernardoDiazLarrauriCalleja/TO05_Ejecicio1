@@ -8,7 +8,7 @@ import java.util.Random;
  * @author Bernardo Díaz Larrauri Calleja
  * @version: 26/03/2021
  * @see
- * <a href = "https://github.com/BernardoDiazLarrauriCalleja/TO05_Ejecicio1.git"/>GitHub
+ * <a href = "https://github.com/BernardoDiazLarrauriCalleja/TO05_Ejercicio1.git"/>GitHub
  * TO05_Ejercicio1<a>*
  */
 public class Password {
